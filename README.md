@@ -1,2 +1,2 @@
-# my-giphy-website
+# reactdemo
 Created with CodeSandbox
